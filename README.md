@@ -3,6 +3,8 @@
 
 ## About me:
 I am trying to become a Web developer.I really enjoy learning languages and frameworks like c# and .net
+
+
 Skills: C# / Java / JS / HTML / CSS
 
 - 🌱 I’m currently learning .net 
