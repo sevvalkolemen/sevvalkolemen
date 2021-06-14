@@ -2,8 +2,7 @@
 ![About Me:](https://miro.medium.com/max/1800/1*jB76MLZjiNhGSQQvxm7LSQ.gif)
 
 ## About me:
-I really enjoy learning languages and frameworks like c# and .net. I am trying to become a Web developer.
-
+I am trying to become a Web developer.I really enjoy learning languages and frameworks like c# and .net
 Skills: C# / Java / JS / HTML / CSS
 
 - 🌱 I’m currently learning .net 
