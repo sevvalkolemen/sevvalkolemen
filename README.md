@@ -4,8 +4,6 @@
 ## About me:
 I really enjoy learning languages and frameworks like c# and .net. I am trying to become a Web developer.
 
-## Languages and Tools:
-[<img src="https://csharp-tutorials.com/" alt="c#" heigh="40">]
 
 Skills: C# / Java / JS / HTML / CSS
 
