@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Şevval
-#### About Me:
 ![About Me:](https://miro.medium.com/max/1800/1*jB76MLZjiNhGSQQvxm7LSQ.gif)
 
+## About Me:
 I really enjoy learning languages and frameworks like c# and .net. I am trying to become a Web developer.
 
 
