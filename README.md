@@ -5,7 +5,7 @@
 I am trying to become a Web developer.I really enjoy learning languages and frameworks like c# and .net
 
 ## Language and Tools:
-![C#][<img src='https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg' alt='c#' height='40'>](https://www.w3schools.com/cs/index.php)
+[<img src='https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg' alt='c#' height='40'>](https://www.w3schools.com/cs/index.php)
 
 
 Skills: C# / Java / JS / HTML / CSS
