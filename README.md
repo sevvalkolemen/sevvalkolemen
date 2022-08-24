@@ -2,7 +2,8 @@
 ![About Me:](https://miro.medium.com/max/1800/1*jB76MLZjiNhGSQQvxm7LSQ.gif)
 
 ## About me:
-I am trying to become a Web developer.I really enjoy learning languages and frameworks like c# and .net
+I am trying to become a Web developer. I really enjoy learning languages and frameworks like c# and .net
+I also develop myself with React at the company where I do my internship.
 
 ## Language and Tools:
 [<img src='https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg' alt='c#' height='40'>](https://www.w3schools.com/cs/index.php)
@@ -12,7 +13,7 @@ I am trying to become a Web developer.I really enjoy learning languages and fram
 [<img src='https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png' alt='java' height='40'>](https://www.tutorialspoint.com/java/index.htm)
 
 
-- 🌱 I’m currently learning .net 
+- 🌱 I’m currently learning .net and React.js
 - ⚡ Fun fact: I love to play a game with my friends 
 
 ## Connect with me:
