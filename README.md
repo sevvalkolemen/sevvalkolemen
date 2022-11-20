@@ -1,9 +1,7 @@
 <!-- Context -->
 <h3 align="center">I'm Şevval! Frontend Developer from Turkey</h3>
 <hr />
-<img src="https://miro.medium.com/max/1800/1*jB76MLZjiNhGSQQvxm7LSQ.gif">
-<!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sevvalkolemen&label=Profile%20views&color=0e75b6&style=flat" alt="sevvalkolemen" /></p>
+<img src="https://miro.medium.com/max/1800/1*jB76MLZjiNhGSQQvxm7LSQ.gif" align="center">
 
 <!-- About me: -->
 <h3 align="left">About me:</h3>
