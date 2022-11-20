@@ -1,21 +1,41 @@
-### Hi there 👋, I'm Şevval
-![About Me:](https://miro.medium.com/max/1800/1*jB76MLZjiNhGSQQvxm7LSQ.gif)
+<!-- Context -->
+<h3 align="center">I'm Şevval! Frontend Developer from Turkey</h3>
+<hr />
+<img src="https://miro.medium.com/max/1800/1*jB76MLZjiNhGSQQvxm7LSQ.gif">
+<!-- Profile Views -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sevvalkolemen&label=Profile%20views&color=0e75b6&style=flat" alt="sevvalkolemen" /></p>
 
-## About me:
-I am trying to become a Web developer. I really enjoy learning languages and frameworks like c# and .net
-I also develop myself with React at the company where I do my internship.
+<!-- About me: -->
+<h3 align="left">About me:</h3>
 
-## Language and Tools:
-[<img src='https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg' alt='c#' height='40'>](https://www.w3schools.com/cs/index.php)
-[<img src='https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png' alt='css' height='40'>](https://www.w3schools.com/css/)
-[<img src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png' alt='html' height='40'>](https://www.w3schools.com/html/)
-[<img src='https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png' alt='js' height='40'>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src='https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png' alt='java' height='40'>](https://www.tutorialspoint.com/java/index.htm)
+- 🔭  I’m currently working on **JavaScript**
+
+- 🌱  I’m currently learning **React**
+
+- 💬 Ask me about **Html, Css, JavaScript and React**
+
+- 📫 How to reach me **seval.kolemen@gmail.com**
 
 
-- 🌱 I’m currently learning .net and React.js
-- ⚡ Fun fact: I love to play a game with my friends 
 
-## Connect with me:
-[<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sevvalkolemen/) [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png' alt='gmail' height='40'>](<seval.kolemen@gmail.com>)  
+<!-- Connect with me: -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sevvalkolemen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sevvalkolemen" height="30" width="40" /></a>
+<a href="https://twitter.com/sevalkolemen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sevvalkolemen" height="30" width="40" /></a>
+</p>
 
+
+
+
+<!-- Languages and Tools -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left" witdh="320" height="320">
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.w3schools.com/html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/tree/master/icons/bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+
+
+<!-- Most Used Languages -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sevvalkolemen&show_icons=true&theme=transparent" alt="sevvalkolemen" /></p>
+
+<!-- Github Stats -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sevvalkolemen&show_icons=true&theme=transparent" alt="sevvalkolemen" /></p>
