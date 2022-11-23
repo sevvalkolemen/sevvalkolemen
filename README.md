@@ -19,6 +19,7 @@
 
 <!-- Connect with me: -->
 <h3 align="left">Connect with me:</h3>
+ [![Gmail Badge](https://img.shields.io/badge/seval.kolemen@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seval.kolemen@gmail.com)](mailto:seval.kolemen@gmail.com)</a>
 <p align="left">
 <a href="https://www.linkedin.com/in/sevvalkolemen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sevvalkolemen" height="30" width="40" /></a>
 <a href="https://twitter.com/sevalkolemen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sevvalkolemen" height="30" width="40" /></a>
