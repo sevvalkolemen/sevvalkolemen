@@ -2,8 +2,6 @@
 <h3 align="center">I'm Şevval! Frontend Developer from Turkey</h3>
 <hr />
 
-<img src="https://miro.medium.com/max/1800/1*jB76MLZjiNhGSQQvxm7LSQ.gif" align="right" width="300" height="200">
-
 <!-- About me: -->
 <h3 align="left">About me:</h3>
 
